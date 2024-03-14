@@ -5,13 +5,12 @@
 # Task - 1
 
 
-# height = float(input("Enter your height in centimeters: "))
+# height = float(input("Enter your height: "))
 
+# ideal_weight_min = 18.5 * (height ** 2)
+# ideal_weight_max = 25 * (height ** 2)
 
-# ideal_weight_min = (height - 100) * 0.9
-# ideal_weight_max = (height - 100) * 1.1
-
-# print("Recommended ideal weight:", ideal_weight_min, "-", ideal_weight_max, "kilograms")
+# print(f"Your recommended weight range is {round(ideal_weight_min, 2)} kg to {round(ideal_weight_max, 2)} kg")
 
                                                                            
 
